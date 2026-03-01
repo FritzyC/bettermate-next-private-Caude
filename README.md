@@ -1,1 +1,1 @@
-# bettermate-next-private-Claude
+# bettermate-next-private-Cl
